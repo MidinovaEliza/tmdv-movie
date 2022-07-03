@@ -1,0 +1,49 @@
+
+#header{
+  background: black;
+
+}
+*{
+  margin: 0;
+  padding: 0;
+
+}
+a,a:hover{
+  text-decoration: none;
+}
+
+ol,li,ul{
+  list-style: none;
+}
+
+.item {
+  color: white;
+  font-size: 17px;
+}
+body{
+  background: black;
+}
+.item2{
+  color: white;
+  font-size: 14px;
+
+}
+.item3{
+  color: white;
+  font-size: 14px;
+
+}
+.select{
+  color: white;
+}
+.sort{
+
+  color: white;
+}
+.title{
+  color: white;
+}
+.row{
+  display: flex;
+}
+
